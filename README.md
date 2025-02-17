@@ -23,7 +23,7 @@ Target's sales analysis of 115.9K orders across 2022-2024 shows total revenue of
 - Over 30 categories with revenue under $0.5M.
 
 ![Screenshot 2025-02-16 222747](https://github.com/user-attachments/assets/e61fb78a-3074-4a0b-81df-1648592fb151)
-![Screenshot 2025-02-16 222842](https://github.com/user-attachments/assets/04a4af4e-0fa3-4aab-a8f2-a7057a1ee50a)
+
 
 
 Monthly Metrics and Growth Rates by Year
