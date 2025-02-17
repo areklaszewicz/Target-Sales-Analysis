@@ -58,20 +58,20 @@ Monthly Metrics and Growth Rates by Year
 
 ## Recommendations
 
-  ### Seasonal Performance Enhancement:
+### Seasonal Performance Enhancement:
 - Launch New Year promotions and vouchers for remaining inventory after peak season.
 - Schedule new product launches in early January to attract potential customers.
 - Implement early Q4 preparation to maximize holiday season performance by targeting November shoppers with loyalty rewards.
 - Focus on expanding top-performing product categories (Health & Beauty, Watches, Bed Bath) through increased product variety, targeted marketing campaigns, and premium offerings.
 
-  ### Maximizing Regional Performance
+### Maximizing Regional Performance
 
 - Leverage successful strategies from São Paulo to Rio de Janeiro and Minas Gerais, focusing on increasing order volumes while maintaining the efficient low-AOV model that drives high transaction volumes.
 - Create targeted strategies for high-AOV regions like Acre ($183 AOV) and Amapa ($163 AOV), focusing on premium product lines and specialized marketing to capitalize on the higher purchase power.
 - Develop regional distribution centers in key growth areas to improve delivery times and reduce operational costs, particularly in regions showing potential for market expansion.
 - The data suggests significant growth potential in West-Central Brazil, particularly given the higher AOVs, though infrastructure and market access challenges may need to be addressed for expansion - this needs further investigation.
 
-  ### Payment Strategy Enhancement
+### Payment Strategy Enhancement
 
 - Strengthen credit card payment adoption in emerging regions by offering exclusive benefits and installment options, replicating the successful 77% share achieved in established markets.
 - Expand the successful 10-installment plan ($292 AOV) offering across high-value product categories, while maintaining the popular single-payment option ($5.2M revenue) for routine purchases.
@@ -91,7 +91,6 @@ What are the reasons for the consistent decline at the beginning of each year?
 ## Changelog
 ![image](https://github.com/user-attachments/assets/9c173905-c11a-4360-90ac-d88b5fb00a20)
 
-##
 
 
 
