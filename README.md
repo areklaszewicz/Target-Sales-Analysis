@@ -93,6 +93,10 @@ What are the reasons for the consistent decline at the beginning of each year?
 ## Changelog
 ![image](https://github.com/user-attachments/assets/9c173905-c11a-4360-90ac-d88b5fb00a20)
 
+## Interesting Codes
+[Interesting codes.pdf](https://github.com/user-attachments/files/18831425/Interesting.codes.pdf)
+
+
 
 
 
