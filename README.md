@@ -12,7 +12,15 @@ Target, an e-commerce retail company operating across Brazilian market since 202
 ## Executive Summary
 Target's sales analysis of 115.9K orders across 2022-2024 shows total revenue of $14.02M, with São Paulo and Rio de Janeiro states contributing over 50% of total sales. Regional performance shows strong concentration in southeast Brazil, with São Paulo leading at $5.37M from 48,850 orders, while payment analysis reveals a strong preference for credit card payments with single payment installments. A significant concern is the almost 50% decline in sales at the beginning of each year. Target Brazil can strengthen its market position by optimizing complementary categories and improving payment strategies. Geographic expansion beyond the current São Paulo dominance will drive sustainable growth and strengthen Target Brazil's competitive position across all regions.
 
-![image](https://github.com/user-attachments/assets/f6a05024-a633-4cb6-942a-9e76f30def2e)
+## Database Diagram
+![image](https://github.com/user-attachments/assets/8dcd3e97-6df9-4791-9e84-92d9f64199cf)
+
+
+- Orders - order_id (PRIMARY KEY)
+- Products - product_id (PRIMARY KEY)
+- Customers - customer_id (PRIMARY KEY)
+- Order_items - order_item_id (PRIMARY KEY)
+- Payments - order_id and payment_sequential (COMPOSITE PRIMARY KEY)
 
 ## Insights Deep-Dive
 ### Sales Trends and Growth Rates
@@ -49,7 +57,9 @@ Monthly Metrics and Growth Rates by Year
 - West-Central regions show significantly lower order volumes but higher Average Order Values compared to major regions: Acre leads with highest AOV at $183, despite only 93 orders, Amapa follows with $163 AOV across 84 orders.
 - 6 states with the lowest revenue combined revenue of ~$162K represents less than 1.2% of total company revenue.
 
-  ![image](https://github.com/user-attachments/assets/09f08fa8-c2f0-4ef1-a31c-c2fd795ec56c)
+  ![image](https://github.com/user-attachments/assets/39b096c8-7237-4854-9123-062c152c59c4)
+
+
 
 ### Payment Performance
 - Payment methods show credit card dominance, representing $10.8M in revenue (77% of total), followed by UPI at $2.3M (17%).
