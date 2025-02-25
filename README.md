@@ -3,6 +3,12 @@
 ## Project Background
 Target, an e-commerce retail company operating across Brazilian market since 2020, specializes in diverse product categories including health & beauty, watches, and home accessories. I'm partnering with the Sales Leadership team to analyze performance metrics and provide insights to optimize sales strategies and regional market penetration.
 
+## Objectives
+- Identify and understand seasonal sales trends and monthly growth rates to optimize inventory management and promotional strategies.
+- Analyze regional sales segmentation to develop expansion strategies.
+- Evaluate the effectiveness of different payment methods and installment plans.
+- Analyze performance of individual product categories to identify top-performing categories and develop growth strategies for those with the greatest potential.
+
 ## Executive Summary
 Target's sales analysis of 115.9K orders across 2022-2024 shows total revenue of $14.02M, with São Paulo and Rio de Janeiro states contributing over 50% of total sales. Regional performance shows strong concentration in southeast Brazil, with São Paulo leading at $5.37M from 48,850 orders, while payment analysis reveals a strong preference for credit card payments with single payment installments. A significant concern is the almost 50% decline in sales at the beginning of each year. Target Brazil can strengthen its market position by optimizing complementary categories and improving payment strategies. Geographic expansion beyond the current São Paulo dominance will drive sustainable growth and strengthen Target Brazil's competitive position across all regions.
 
